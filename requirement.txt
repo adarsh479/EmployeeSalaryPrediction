@@ -2,4 +2,4 @@ streamlit
 joblib
 numpy
 pandas
-scokit-learn
+scikit-learn
